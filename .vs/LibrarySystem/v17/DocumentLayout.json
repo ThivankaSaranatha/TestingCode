@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\thivankasaranatha\\source\\repos\\librarysystem\\librarysystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\controllers\\bookscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\thivankasaranatha\\source\\repos\\librarysystem\\librarysystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\thivankasaranatha\\source\\repos\\librarysystem\\librarysystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\thivankasaranatha\\source\\repos\\librarysystem\\librarysystem\\librarysystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\librarysystem.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\thivankasaranatha\\source\\repos\\librarysystem\\librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|c:\\users\\thivankasaranatha\\source\\repos\\librarysystem\\librarysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{3B656022-3032-4F53-8DC2-F1F9911833C1}|LibrarySystem\\LibrarySystem.csproj|solutionrelative:librarysystem\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LibrarySystem\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LibrarySystem\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T19:55:25.715Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LibrarySystem.http",
+              "DocumentMoniker": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\LibrarySystem.http",
+              "RelativeDocumentMoniker": "LibrarySystem\\LibrarySystem.http",
+              "ToolTip": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\LibrarySystem.http",
+              "RelativeToolTip": "LibrarySystem\\LibrarySystem.http",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-12-03T19:55:16.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\appsettings.json",
+              "RelativeDocumentMoniker": "LibrarySystem\\appsettings.json",
+              "ToolTip": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\appsettings.json",
+              "RelativeToolTip": "LibrarySystem\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-03T19:55:06.13Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Book.cs",
+              "DocumentMoniker": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Models\\Book.cs",
+              "ToolTip": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\Models\\Book.cs",
+              "RelativeToolTip": "LibrarySystem\\Models\\Book.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:46:16.114Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BooksController.cs",
+              "DocumentMoniker": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\Controllers\\BooksController.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Controllers\\BooksController.cs",
+              "ToolTip": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\Controllers\\BooksController.cs",
+              "RelativeToolTip": "LibrarySystem\\Controllers\\BooksController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:41:59.596Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeDocumentMoniker": "LibrarySystem\\Program.cs",
+              "ToolTip": "C:\\Users\\ThivankaSaranatha\\source\\repos\\LibrarySystem\\LibrarySystem\\Program.cs",
+              "RelativeToolTip": "LibrarySystem\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-03T19:39:59.067Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
